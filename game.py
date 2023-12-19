@@ -5,7 +5,7 @@ import turtle
 window = turtle.Screen()
 window.title("Ping Pong Game")
 window.bgcolor("black")
-window.setup(width=800, height=600)
+window.setup(width=1000, height=800)
 window.tracer(0)
 
 # Create the paddle A
